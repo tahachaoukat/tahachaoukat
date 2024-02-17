@@ -1,3 +1,7 @@
+<div>
+  <img src="https://miro.medium.com/v2/resize:fit:679/1*mY7-_HseAw99fBS9Cb3tSw.gif" alt="My_banner" />
+</div>
+  <h1 align="center" style="box-shadow:1px 1px 10px blue"> Hi 👋, I'm TAHA CHAOUKAT </h1>
 # 💫 About Me:
 <br>🔍 As a data analyst and data scientist, I thrive on delving into data, uncovering insights, and crafting innovative solutions.<br>🎓 Currently, I'm honing my skills in data analytics and data science, constantly seeking to expand my knowledge and expertise.<br>🌱 My journey includes a deep dive into various aspects of data analysis, including but not limited to statistical modeling, machine learning, and data visualization.<br>✍️ Beyond my professional endeavors, I'm passionate about leveraging data to drive informed decision-making and create tangible value for businesses.<br>💬 Whether you're seeking consultation on data-related projects or simply want to engage in stimulating discussions about data science, feel free to reach out.<br>✉️ You can connect with me via email at tahhachaoukat@gmail.com . I look forward to engaging with you!
 
