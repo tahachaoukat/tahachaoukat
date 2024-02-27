@@ -1,5 +1,5 @@
 <div>
-  <img src="https://media.licdn.com/dms/image/D5622AQHCsh9S_vNrhg/feedshare-shrink_2048_1536/0/1708961223764?e=1712188800&v=beta&t=-RCYNQ9kaAElbbhru7zxOx1NGDcY2HZpqm2_ZcFwhFk" alt="My_banner" />
+  <img src="https://miro.medium.com/v2/resize:fit:679/1*mY7-_HseAw99fBS9Cb3tSw.gif" alt="My_banner" />
 </div>
   <h1 align="center" style="box-shadow:1px 1px 10px blue"> Hi 👋, I'm TAHA CHAOUKAT </h1>
 # 💫 About Me:
